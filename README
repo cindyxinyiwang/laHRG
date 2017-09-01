@@ -1,0 +1,11 @@
+ 
+
+
+# To calculate log likelihood of ba-test using grammars extracted from ba-train
+`./script.sh`
+
+# /prepare_tree_rules folder contains subgraphs extraction from train/test graphs
+# To extract train/test subgraphs
+`cd prepare_tree_rules`
+`./script.sh`
+
